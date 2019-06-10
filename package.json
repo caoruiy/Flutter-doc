@@ -1,0 +1,27 @@
+{
+  "name": "flutter-doc",
+  "version": "1.0.0",
+  "description": "flutter 相关学习文档和DEMO",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-summary": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoruiy/Flutter-doc.git"
+  },
+  "keywords": [
+    "flutter",
+    "doc"
+  ],
+  "author": "caorui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caoruiy/Flutter-doc/issues"
+  },
+  "homepage": "https://github.com/caoruiy/Flutter-doc#readme"
+}
